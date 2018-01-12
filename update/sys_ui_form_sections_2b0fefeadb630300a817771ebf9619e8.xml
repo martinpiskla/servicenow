@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="2b0fefeadb630300a817771ebf9619e8" sys_domain="global" table="x_184553_hello_wor_helloworld" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-12 13:42:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bf0fefeadb630300a817771ebf9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_184553_hello_wor_helloworld" name="x_184553_hello_wor_helloworld" sys_domain="global" view="Default view">2b0fefeadb630300a817771ebf9619e8</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_184553_hello_wor_helloworld" sys_domain="global" view="Default view">a644a69adb230300a817771ebf961968</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-12 13:42:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-12 13:42:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb0fefeadb630300a817771ebf9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_184553_hello_wor_helloworld" name="x_184553_hello_wor_helloworld" sys_domain="global" view="Default view">2b0fefeadb630300a817771ebf9619e8</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_184553_hello_wor_helloworld" sys_domain="global" view="Default view">eb0fefeadb630300a817771ebf9619e7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-12 13:42:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-12 13:45:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>529f272edb630300a817771ebf961947</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_184553_hello_wor_helloworld" name="x_184553_hello_wor_helloworld" sys_domain="global" view="Default view">2b0fefeadb630300a817771ebf9619e8</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_184553_hello_wor_helloworld" sys_domain="global" view="Default view">569fe32edb630300a817771ebf961926</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-12 13:45:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_184553_hello_wor_helloworld</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-12 13:42:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2b0fefeadb630300a817771ebf9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_184553_hello_wor_helloworld</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hello world" source="x_184553_hello_wor">b6a34391db230300a817771ebf961920</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello world">b6a34391db230300a817771ebf961920</sys_scope>
+            <sys_update_name>sys_ui_form_sections_2b0fefeadb630300a817771ebf9619e8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-12 13:42:51</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
