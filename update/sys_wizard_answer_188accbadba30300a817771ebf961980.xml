@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>HelloWorld</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>HelloWorld</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">aee1ba76791203006517636e4f534939</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-01-12 15:42:46</sys_created_on>
+        <sys_id>188accbadba30300a817771ebf961980</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HelloWorld</sys_name>
+        <sys_package display_value="Hello world" source="x_184553_hello_wor">b6a34391db230300a817771ebf961920</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello world">b6a34391db230300a817771ebf961920</sys_scope>
+        <sys_update_name>sys_wizard_answer_188accbadba30300a817771ebf961980</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-01-12 15:42:46</sys_updated_on>
+        <table/>
+        <target_url>x_184553_hello_wor_helloworld.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
