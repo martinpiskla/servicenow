@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="HelloWorld" max_length="40" name="x_184553_hello_wor_helloworld" sizeclass="6" type="collection">
+    <element audit="true" extends="task" label="HelloWorld" max_length="40" name="x_184553_hello_wor_helloworld" sizeclass="7" type="collection">
         <element label="New field 1" max_length="40" name="new_field_1" type="integer"/>
         <element label="Image example" max_length="40" name="u_image_example" type="user_image"/>
         <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
